@@ -44,3 +44,12 @@ development is approached with limited resources and full transparency.
 If you find this work meaningful, you may support its continuation via **Open Collective**.
 
 Support helps sustain open experimentation, documentation, and long-term learning.
+
+## Support
+
+If you find this work meaningful, you may support its continuation via **Open Collective**:
+
+👉 https://opencollective.com/alilegacy
+
+Support helps sustain open experimentation, documentation, and long-term learning.
+
