@@ -1,4 +1,4 @@
-# My Project
+My Project
 
 Secure Node.js project with Snyk & GitHub Actions.
 
