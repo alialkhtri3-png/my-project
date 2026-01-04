@@ -52,4 +52,36 @@ If you find this work meaningful, you may support its continuation via **Open Co
 👉 https://opencollective.com/alilegacy
 
 Support helps sustain open experimentation, documentation, and long-term learning.
+# farcaster-mini
 
+Minimal **Next.js 15** project for building **Farcaster Frames** and **mini apps**, developed using **Termux on Android**.
+
+هذا المشروع مهيأ ليكون نقطة انطلاق خفيفة وسريعة لتطوير تطبيقات Farcaster باستخدام أحدث إصدار من Next.js.
+
+---
+
+## ✨ Features
+
+- ⚡ Next.js 15 (App Router)
+- 🧩 Farcaster Frame SDK
+- 📱 يعمل بالكامل على Termux (Android)
+- 🧪 جاهز للتكامل مع GitHub Actions
+- 🔒 إعدادات نظيفة مع `.gitignore` محسّن
+
+---
+
+## 📦 Tech Stack
+
+- **Framework:** Next.js 15
+- **Language:** TypeScript
+- **UI:** React 18
+- **SDK:** `@farcaster/frame-sdk`
+- **Runtime:** Node.js 18 / 20
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Install dependencies
+```bash
+npm install
