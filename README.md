@@ -85,3 +85,44 @@ Minimal **Next.js 15** project for building **Farcaster Frames** and **mini apps
 ### 1️⃣ Install dependencies
 ```bash
 npm install
+# AliLegacy – Technical Proof
+This page certifies that this repository is a clean and complete technical proof.
+
+**Status:** Stable  
+**Initial Release:** `v1.0.0`  
+**Maintenance Release:** `v1.0.1`  
+**License:** MIT  
+**Repository State:** Clean & Documented  
+**Purpose:** Portfolio / Proof of Work  
+
+Created by Ali · Verified via Git history and tags
+# AliLegacy – Technical Proof
+
+This page certifies that this repository is a clean and complete technical proof.
+
+**Status:** Stable  
+**Initial Release:** `v1.0.0`  
+**Maintenance Release:** `v1.0.1`  
+**License:** MIT  
+**Repository State:** Clean & Documented  
+**Purpose:** Portfolio / Proof of Work  
+
+**Live Preview (Production):** [https://my-project-3djdd6r9t-alialkhtri-s-projects.vercel.app](https://my-project-3djdd6r9t-alialkhtri-s-projects.vercel.app)  
+**Aliased Link:** [https://my-project-ashy-five-88.vercel.app](https://my-project-ashy-five-88.vercel.app)
+
+Created by Ali · Verified via Git history and tags
+# AliLegacy – إثبات تقني
+
+تؤكد هذه الصفحة أن هذا المستودع نظيف وكامل كإثبات تقني للعمل.
+
+**الحالة:** مستقر  
+**الإصدار الأول:** `v1.0.0`  
+**إصدار الصيانة:** `v1.0.1`  
+**رخصة:** MIT  
+**حالة المستودع:** نظيف وموثق  
+**الغرض:** معرض أعمال / إثبات إنجاز  
+
+**المعاينة المباشرة (الإنتاج):** [https://my-project-3djdd6r9t-alialkhtri-s-projects.vercel.app](https://my-project-3djdd6r9t-alialkhtri-s-projects.vercel.app)  
+**الرابط المختصر:** [https://my-project-ashy-five-88.vercel.app](https://my-project-ashy-five-88.vercel.app)
+
+تم إنشاؤه بواسطة علي · تم التحقق عبر سجل Git والتاجات
