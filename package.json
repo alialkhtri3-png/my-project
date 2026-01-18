@@ -9,5 +9,8 @@
     "cors": "^2.8.5",
     "express": "^4.22.1",
     "siwe": "^3.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
   }
 }
