@@ -96,3 +96,18 @@ This page certifies that this repository is a clean and complete technical proof
 **Purpose:** Portfolio / Proof of Work  
 
 Created by Ali · Verified via Git history and tags
+# AliLegacy – Technical Proof
+
+This page certifies that this repository is a clean and complete technical proof.
+
+**Status:** Stable  
+**Initial Release:** `v1.0.0`  
+**Maintenance Release:** `v1.0.1`  
+**License:** MIT  
+**Repository State:** Clean & Documented  
+**Purpose:** Portfolio / Proof of Work  
+
+**Live Preview (Production):** [https://my-project-3djdd6r9t-alialkhtri-s-projects.vercel.app](https://my-project-3djdd6r9t-alialkhtri-s-projects.vercel.app)  
+**Aliased Link:** [https://my-project-ashy-five-88.vercel.app](https://my-project-ashy-five-88.vercel.app)
+
+Created by Ali · Verified via Git history and tags
