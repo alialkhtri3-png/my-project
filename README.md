@@ -111,3 +111,18 @@ This page certifies that this repository is a clean and complete technical proof
 **Aliased Link:** [https://my-project-ashy-five-88.vercel.app](https://my-project-ashy-five-88.vercel.app)
 
 Created by Ali · Verified via Git history and tags
+# AliLegacy – إثبات تقني
+
+تؤكد هذه الصفحة أن هذا المستودع نظيف وكامل كإثبات تقني للعمل.
+
+**الحالة:** مستقر  
+**الإصدار الأول:** `v1.0.0`  
+**إصدار الصيانة:** `v1.0.1`  
+**رخصة:** MIT  
+**حالة المستودع:** نظيف وموثق  
+**الغرض:** معرض أعمال / إثبات إنجاز  
+
+**المعاينة المباشرة (الإنتاج):** [https://my-project-3djdd6r9t-alialkhtri-s-projects.vercel.app](https://my-project-3djdd6r9t-alialkhtri-s-projects.vercel.app)  
+**الرابط المختصر:** [https://my-project-ashy-five-88.vercel.app](https://my-project-ashy-five-88.vercel.app)
+
+تم إنشاؤه بواسطة علي · تم التحقق عبر سجل Git والتاجات
