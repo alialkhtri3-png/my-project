@@ -85,3 +85,14 @@ Minimal **Next.js 15** project for building **Farcaster Frames** and **mini apps
 ### 1️⃣ Install dependencies
 ```bash
 npm install
+# AliLegacy – Technical Proof
+This page certifies that this repository is a clean and complete technical proof.
+
+**Status:** Stable  
+**Initial Release:** `v1.0.0`  
+**Maintenance Release:** `v1.0.1`  
+**License:** MIT  
+**Repository State:** Clean & Documented  
+**Purpose:** Portfolio / Proof of Work  
+
+Created by Ali · Verified via Git history and tags
