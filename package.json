@@ -1,16 +1,13 @@
 {
   "name": "my-project",
   "version": "1.0.0",
-  "description": "Secure Node.js project with Snyk & GitHub Actions.",
-  "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.22.1",
+    "siwe": "^3.0.0"
+  }
 }
