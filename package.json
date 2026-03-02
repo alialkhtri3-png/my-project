@@ -1,16 +1,21 @@
 {
-  "name": "my-project",
+  "name": "metamask-snap-test",
   "version": "1.0.0",
-  "type": "module",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "vite"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.22.1",
-    "siwe": "^3.0.0"
-  },
-  "devDependencies": {
-    "vite": "^7.3.1"
+    "@metamask/snaps-cli": "^8.4.0",
+    "@web3auth/react-native-sdk": "^8.1.0",
+    "ethers": "^5.8.0",
+    "jq": "^1.7.2",
+    "node-fetch": "^3.3.2",
+    "readline-sync": "^1.4.10"
   }
 }

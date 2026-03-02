@@ -1,0 +1,16 @@
+import { connectSnap } from '@metamask/snaps-cli';
+
+async function main() {
+  try {
+    const snap = await connectSnap({
+      snapId: 'local:http://localhost:8081/snap.js',
+      wallet: 'metamask',
+    });
+    console.log('Snap connected:', snap);
+  } catch (err) {
+    console.error('حدث خطأ:', err);
+  }
+}
+
+main();
+
