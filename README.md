@@ -126,3 +126,19 @@ Created by Ali · Verified via Git history and tags
 **الرابط المختصر:** [https://my-project-ashy-five-88.vercel.app](https://my-project-ashy-five-88.vercel.app)
 
 تم إنشاؤه بواسطة علي · تم التحقق عبر سجل Git والتاجات
+
+
+
+
+# My Project
+
+[![Build Status](https://github.com/alialkhtri3-png/my-project/actions/workflows/nodejs.yml/badge.svg)](https://github.com/alialkhtri3-png/my-project/actions)
+[![Vercel](https://img.shields.io/vercel/deployment/my-project-3djdd6r9t-alialkhtri-s-projects)](https://my-project-3djdd6r9t-alialkhtri-s-projects.vercel.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
+
+
+
+
+د
