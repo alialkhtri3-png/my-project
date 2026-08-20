@@ -1,3 +1,10 @@
-# My Open Source Project
+# My Project
 
-Hosted via Open Source Collective.
+Web3 Application & Smart Contracts Registry.
+
+## Quick Start
+
+```bash
+npm install
+npm run dev
+```
